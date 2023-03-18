@@ -191,10 +191,14 @@ h5{
     font-size: 1.2em;
     font-weight: 600;
     border: none;
-    background-color: rgba(206, 177, 48, 0.384);
+    background-color: rgba(133, 133, 133, 0.562);
     color: white;
     outline: none;
     position: relative;
+}
+
+#cardCvv::placeholder{
+    color: rgba(255, 255, 255, 0.493);
 }
 
 .text{
